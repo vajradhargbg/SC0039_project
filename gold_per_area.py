@@ -36,33 +36,6 @@ import os
 import tempfile
 import csv
 
-def read_object(text):
-    """
-Parses the data in info file for a single object.
-Input "text" is a list of strings, each string is a line in the original imod info file.  The list as a whole represents data
-for 1 object.
-Returns a dictionary containing info for that object.  Within the dictionary is a list of dictionaries,
-containing information for each contour.
-
-Currently I don't work with open objects so it may not be super compatible with them. Please use scattered points object.
-"""
-    
-    ####Note to self: work on scattered points
-    object_info = {}
-    object_info["contours"] = []
-    
-    #FCombine all lines to make it easier to search for object type
-    combined = '\n'.join(text)
-   
-    #Check if object is open or closed.  4th line will contain this info.
-    if "closed" in combined:
-        object_type = "closed"
-    elif "open" in combined:
-        object_type = "open"
-    elif "scattered" in combined:
-        object_type = "scattered_points"
-    object_info["type"] = object_type
-        
     
                 
                 
