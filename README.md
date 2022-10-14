@@ -7,6 +7,9 @@ If you wish to look at the images and the model, you can download the IMOD packa
 Open the .mrc stack with the images using the command: imod filename.mrc from the command line.
 To open the model, go to File-Open and select the .mod file
 
+## Instructions
+Clone the repo and run the script in the same directory. If you wish to skip downloading all the other files, just download the areas.log logfile and the scipt into the same directory and run the script with python 3. THE SCRIPT AND THE LOG FILE NEED TO BE IN THE SAME DIRECTORY.
+
 ## Goal
 The goal of this project is to calculate distribution of gold beads in an immuno electron microscopy(ImmunoEM) image. The script will interface with a log file from the software package called IMOD that is used to model the structures in the immunoEM image and calculate gold per unit area.
 
