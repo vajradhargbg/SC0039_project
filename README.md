@@ -1,11 +1,9 @@
 # SC0039_project
 
 ## Considerations
-Read the readme.txt file for instructions on modelling the data.
-In this case, for the project, the script is already modified for the test dataset that I have included. Please run the script as is with the log file in the directory in which the log file is saved for the output.
-The image stack can be found here: https://gunet-my.sharepoint.com/:u:/g/personal/vajradhar_shripad_acharya_gu_se/ESWs9BLAARtKsTzTDIZ9ZuoBBk2gYd-KX2D-EKEU6intww?e=K5ORh2
-The model file is in this repo with the extension .mod
-If you wish to look at the images and the model, you can download the IMOD package here:https://bio3d.colorado.edu/imod/
+*Read the readme.txt file for instructions on modelling the data. In this case, for the project, the script is already modified for the test dataset that I have included. Please run the script as is with the log file in the directory in which the log file is saved for the output. The image stack can be found here: https://gunet-my.sharepoint.com/:u:/g/personal/vajradhar_shripad_acharya_gu_se/ESWs9BLAARtKsTzTDIZ9ZuoBBk2gYd-KX2D-EKEU6intww?e=K5ORh2
+The model file is in this repo with the extension .mod.
+If you wish to look at the images and the model, you can download the IMOD package here:https://bio3d.colorado.edu/imod/.
 Open the .mrc stack with the images using the command: imod filename.mrc from the command line.
 To open the model, go to File-Open and select the .mod file
 
