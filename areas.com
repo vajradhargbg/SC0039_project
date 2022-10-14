@@ -1,3 +1,3 @@
->for iz in range(100):
-$ clipmodel -z %iz,%iz model_file_here.mod temp.mod
+>for iz in range(4):
+$ clipmodel -z %iz,%iz flagellum.mod temp.mod
 $ imodinfo temp.mod
