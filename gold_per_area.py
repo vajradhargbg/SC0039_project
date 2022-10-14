@@ -355,13 +355,13 @@ nm_to_um:  assumes data is nm/pixel in model, change to false if this is not tru
 ###for total_gold_per_area
 # stackinfo = areaslog_to_stackinfo("areas.log")
 # #print(stackinfo)
-# density = total_gold_per_area(stackinfo, "nucleus", "Gold in nucleus (electron dense excluded)", "Nuclear electron dense content")
+# density = total_gold_per_area(stackinfo, "flagellum", "Gold in flagellum(mitochondria excluded)", "Mitochondria")
 # print(density)
     
 ###for gold_per_area_stack
 # stackinfo = areaslog_to_stackinfo("short_areas.log")
 # print(stackinfo)
-# density = gold_per_area_stack(stackinfo, "nucleus", "Gold in nucleus (electron dense excluded)", "Nuclear electron dense content")
+# density = gold_per_area_stack(stackinfo, "flagellum", "Gold in flagellum(mitochondria excluded)", "Mitochondria")
 # print(density)
 
 ###Implementation
