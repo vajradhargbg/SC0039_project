@@ -1,0 +1,181 @@
+
+*** Entries to program clipmodel ***
+  ZMinAndMax = 0,0
+  Non-option arguments:   flagellum.mod   temp.mod
+*** End of entries ***
+
+
+ Number of non-empty contours reduced from       6 to        2
+ Number of points reduced from     10865 to      2250
+
+ CLIPPED MODEL WRITTEN
+# MODEL temp.mod
+# NAME  IMOD-NewModel
+# PIX SCALE:  x = 1
+#             y = 1
+#             z = 1
+# PIX SIZE      = 1
+# UNITS: pixels
+# Model to Image index coords:
+#      SCALE  = ( 1, 1, 1)
+#      OFFSET = ( 0, 0, 0)
+#      ANGLES = ( 0, 0, 0)
+
+
+OBJECT 1
+NAME:  flagellum_area
+       1 contours
+       object uses closed contours.
+       color (red, green, blue) = (0, 1, 0)
+
+	CONTOUR #1,1,0  2224 points, length = 9999.56,  area = 2.44664e+06
+
+	Total cylinder volume = 2.44664e+06
+	Total cylinder surface area = 9999.56
+
+OBJECT 2
+NAME:  Gold
+       1 contours
+       object uses scattered points.
+       color (red, green, blue) = (0, 1, 1)
+
+	CONTOUR #1,2,0  26 points	length = 0 pixels
+
+
+
+
+*** Entries to program clipmodel ***
+  ZMinAndMax = 1,1
+  Non-option arguments:   flagellum.mod   temp.mod
+*** End of entries ***
+
+
+ Number of non-empty contours reduced from       6 to        2
+ Number of points reduced from     10865 to      2543
+
+ CLIPPED MODEL WRITTEN
+# MODEL temp.mod
+# NAME  IMOD-NewModel
+# PIX SCALE:  x = 1
+#             y = 1
+#             z = 1
+# PIX SIZE      = 1
+# UNITS: pixels
+# Model to Image index coords:
+#      SCALE  = ( 1, 1, 1)
+#      OFFSET = ( 0, 0, 0)
+#      ANGLES = ( 0, 0, 0)
+
+
+OBJECT 1
+NAME:  flagellum_area
+       1 contours
+       object uses closed contours.
+       color (red, green, blue) = (0, 1, 0)
+
+	CONTOUR #1,1,0  2534 points, length = 11415.4,  area = 2.41994e+06
+
+	Total cylinder volume = 2.41994e+06
+	Total cylinder surface area = 11415.4
+
+OBJECT 2
+NAME:  Gold
+       1 contours
+       object uses scattered points.
+       color (red, green, blue) = (0, 1, 1)
+
+	CONTOUR #1,2,0  9 points	length = 0 pixels
+
+
+
+
+*** Entries to program clipmodel ***
+  ZMinAndMax = 2,2
+  Non-option arguments:   flagellum.mod   temp.mod
+*** End of entries ***
+
+
+ Number of non-empty contours reduced from       6 to        2
+ Number of points reduced from     10865 to      1742
+
+ CLIPPED MODEL WRITTEN
+# MODEL temp.mod
+# NAME  IMOD-NewModel
+# PIX SCALE:  x = 1
+#             y = 1
+#             z = 1
+# PIX SIZE      = 1
+# UNITS: pixels
+# Model to Image index coords:
+#      SCALE  = ( 1, 1, 1)
+#      OFFSET = ( 0, 0, 0)
+#      ANGLES = ( 0, 0, 0)
+
+
+OBJECT 1
+NAME:  flagellum_area
+       1 contours
+       object uses closed contours.
+       color (red, green, blue) = (0, 1, 0)
+
+	CONTOUR #1,1,0  1713 points, length = 8885.99,  area = 1.41741e+06
+
+	Total cylinder volume = 1.41741e+06
+	Total cylinder surface area = 8885.99
+
+OBJECT 2
+NAME:  Gold
+       1 contours
+       object uses scattered points.
+       color (red, green, blue) = (0, 1, 1)
+
+	CONTOUR #1,2,0  29 points	length = 0 pixels
+
+
+
+
+*** Entries to program clipmodel ***
+  ZMinAndMax = 3,3
+  Non-option arguments:   flagellum.mod   temp.mod
+*** End of entries ***
+
+
+ Number of non-empty contours reduced from       6 to        2
+ Number of points reduced from     10865 to      2118
+
+ CLIPPED MODEL WRITTEN
+# MODEL temp.mod
+# NAME  IMOD-NewModel
+# PIX SCALE:  x = 1
+#             y = 1
+#             z = 1
+# PIX SIZE      = 1
+# UNITS: pixels
+# Model to Image index coords:
+#      SCALE  = ( 1, 1, 1)
+#      OFFSET = ( 0, 0, 0)
+#      ANGLES = ( 0, 0, 0)
+
+
+OBJECT 1
+NAME:  flagellum_area
+       1 contours
+       object uses closed contours.
+       color (red, green, blue) = (0, 1, 0)
+
+	CONTOUR #1,1,0  2107 points, length = 9849.12,  area = 1.71214e+06
+
+	Total cylinder volume = 1.71214e+06
+	Total cylinder surface area = 9849.12
+
+OBJECT 2
+NAME:  Gold
+       1 contours
+       object uses scattered points.
+       color (red, green, blue) = (0, 1, 1)
+
+	CONTOUR #1,2,0  11 points	length = 0 pixels
+
+
+
+SUCCESSFULLY COMPLETED
